@@ -416,14 +416,6 @@ BTC
 
 ```1c4Cw6gdiA9fZVGkDbafSwn58Z3HrogsZ```
 
-LTC
-
-```LQKkNuMjbuhKwtoG4k3XCG3PQyuffKnf8j```
-
-DOGE
-
-```DM7MUNcL32NX9SmHjoxf14Dpd1MZFE4VgY```
-
 ETH
 
 ```0xdF1a8772A50a201aE17611706148B25f7B2eC7fB```
